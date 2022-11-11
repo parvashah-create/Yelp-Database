@@ -1,5 +1,3 @@
-SELECT * FROM tweetdb.hashtag;
-@tweet = 'ballot drop off 🗳️ (@ Mayfair Park) on #Yelp https://t.co/HNnC5QjJpj'
 
 -- 1. what user posted this tweet ?
 SELECT
