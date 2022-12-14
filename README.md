@@ -19,6 +19,9 @@ b) Querying this dataset to analyze service based businesses and calculate key m
 
 ## Note
 As is evident from the ERD and UML the unstructured JSON data available to us is converted into a clean structured form by dropping redudant and irrelevant data. All tables made are in 3rd Normal Form that means:
+
 a) All data is atomic.
+
 b) There are no partial dependencies.
+
 c) There are no transitive dependencies.
