@@ -7,7 +7,7 @@ Scope of the project:
 a) The scope of this project is to design and create a clean relational database for the publicly available yelp database which is given in JSON format.
 b) Querying this dataset to analyze service based businesses and calculate key metrics to further understand the market.
 
-Summary of files:
+## Summary of files:
 1. database-json: The dataset we are using for this project which is the publicly available yelp dataset with more than 6M rows of data
 2. twitter_scrapper: Twitter Bot that scrapes tweets with specified hastags to seperately desined database.
 3. yelp_api: The script uses a combination of yelp fusion API and web scrapping to extract the information needed to insert new data in our yelp database. The data is cleaned, organized and validated before populating the yelp Database.
