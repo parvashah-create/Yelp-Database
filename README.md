@@ -16,6 +16,7 @@ b) Querying this dataset to analyze service based businesses and calculate key m
 6. data_insertion.ipynb: script that converts the json dataset into structured data and inserts the data into the designed mysql database.
 7. optimized_data_insertion.ipynb: script that is highly optimized to convert yelp JSON dataset which contains more 6M rows into structured and inserting that data into the database much faster than data_insertion.ipynb.
 8. model_views.sql: This file creates views for all the use cases for our database.
+9. Final Documentation.pdf: This pdf conatains documentation for the final project.
 
 ## Note
 As is evident from the ERD and UML the unstructured JSON data available to us is converted into a clean structured form by dropping redundant and irrelevant data. All tables made are in 3rd Normal Form that means:
